@@ -1,3 +1,4 @@
 # Dataset_Project_Study__MJSP
 Data Set MJSP Project Study 1 
-The project's official english and japanese website, farm blog, videos, along with voices of volunteers served as the primary source of data. I believe that this kind of virtual space offers valuable information on volunteer’s experience and identity construction in rural Japan. This digital observation does not seek to reach a definite conclusion, but to identify various interwoven notions surrounding agricultural volunteers. The results will serve as a foundation for conducting practical fieldwork. Throughout the data collection process, I have maintained contact with the farm via email to obtain consent and openly clarify the research purpose and methodology2. 
+
+ For main file, citations and coding please open : Report_Data_Set_Coded.pdf
